@@ -15,7 +15,7 @@ Using the function in SQL “Distinct” with “Order by” to remove duplicate
 ![](img_sql/fig2.png)  
 
 The total of Retiring Employees is 72458, to know how many employees by departments I  created another query to retrieve the number of employees by their most recent job title who are about to retire and insert this data in a temporal table. 
-### Fig 3. Table(retiring_titles) of Retiring Employees by their most recent job title.
+### Fig 3. Table(retiring_titles) of total Retiring Employees by title.
 
 ![](img_sql/fig3.png) 
 
