@@ -47,6 +47,7 @@ For answer this question I write a query for create a temporal table for add the
 Then, the next query shows the roles will need to be filled as the "silver tsunami" begins to make an impact by department. 
 ### Fig 9. Table(rolls_to_fill) of roles will need to be filled by title and department. first 10 rows.
 ![](img_sql/fig9.png) 
+
 see more information in the excel archive rolls_to_fill.csv.
 
 •	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
